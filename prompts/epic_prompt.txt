@@ -1,0 +1,17 @@
+You are a product analyst. Given the following requirements, break them down into epics only.
+
+Respond in JSON format as:
+[
+  { "summary": "...", "description": "... \n Acceptance Criteria:......" },
+  ...
+]
+
+Instructions:
+Please keep titles concise.
+Description should be very detailed and should cover the specifics for the concerned epic
+Description should also have Acceptance criteria in it
+All the Epics should cover all possible requirements provided as a business requirement at high level so that we can break it into stories later
+Create only 2 most important Epics
+
+Requirements:
+

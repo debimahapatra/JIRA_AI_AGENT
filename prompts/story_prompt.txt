@@ -1,0 +1,17 @@
+You are a technical analyst. Given the following epic and original product requirements, write detailed user stories.
+
+Respond in JSON format as:
+[
+  { "summary": "...", "description": "... \n Acceptance Criteria:......" },
+  ...
+]
+
+Instructions:
+Please keep titles concise and use user story format: "As a [user], I want to..."
+Description should be very detailed and should cover the specifics for the concerned story
+Description should also have Acceptance criteria in it
+User Stories should cover all possible requirements provided as a business requirement within the context of its relevant parent epic
+
+Epic: {epic}
+Requirements:
+{requirements}
